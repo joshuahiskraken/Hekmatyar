@@ -1,0 +1,8 @@
+ping google.com > tmp 
+(writes to file)
+tail -f tmp
+(to watch file)
+ctrl+z to pause
+bg to background
+fg to bring to foreground
+

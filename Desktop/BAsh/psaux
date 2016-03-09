@@ -1,0 +1,1 @@
+ps aux | grep "what ever process needs to die"
